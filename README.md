@@ -12,7 +12,7 @@ Fig 1.0 below displays the temperature statistics gathered from the weather stat
 
 | June  Temperature                                            | December Temperature                                         | Both months analysis                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) | ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif) | ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) |
+| ![img](Resources/June_Temp.PNG) | ![img](Resources/Dec_Temp.PNG) | ![img](Resources/june_dec_comb_temp.PNG) |
 
 **Fig 1.0**
 
