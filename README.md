@@ -1,6 +1,6 @@
 ## **Overview of the analysis:** 
 
-| ![img](file:///C:/Users/Exceed/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) |
+| ![img](Resources/Intro.PNG) |
 | ------------------------------------------------------------ |
 | W. Avy wants to invest in a surf shop in  Oahu, and for that purpose requires a statistical analysis of precipitation  and temperature and precipitation in Oaha for the months of June and December  in Oahu. We derive this information for W. Avy using data collected from the  Weather stations and stored in the Measurement database. Since the data is  small and focused, we chose to use the SQLITE Database as the data store.  Python scripting was used to derive the analysis. |
 
